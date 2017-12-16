@@ -1,0 +1,17 @@
+﻿<Window x:Class="Leetspeak.WindowAbout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About Leetspeak" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Icon="/Leetspeak;component/Leetspeak.ico" SizeToContent="WidthAndHeight">
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+		<Image Source="/Leetspeak;component/Resources/ImageBanner.png" Stretch="None" Width="400"/>
+		<TextBlock TextWrapping="Wrap" Grid.Row="1" Padding="10,10,10,0"><Run Text="Copyright by bytecode77, 2008-2015."/><LineBreak /><LineBreak /><Run Text="Please visit my web site for news and updates."/><LineBreak /><Hyperlink x:Name="lnkWebsite" Click="lnkWebsite_Click"><Run Text="bytecode77.com"/></Hyperlink></TextBlock>
+		<Label x:Name="lblVersion" Margin="10,10,0,0" VerticalAlignment="Bottom" Content="Version" Grid.Row="2" HorizontalAlignment="Left" Padding="0" />
+		<Button x:Name="btnOK" Content="OK" Margin="0,10,10,10" HorizontalAlignment="Right" Click="btnOK_Click" IsCancel="True" IsDefault="True" Grid.Row="3" Padding="30,1"/>
+	</Grid>
+</Window>

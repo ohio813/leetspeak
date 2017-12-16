@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Languages>
+	<Language Name="1337">
+		<Entry English="a" Leet="4,4,@" />
+		<Entry English="i" Leet="!" />
+		<Entry English="o" Leet="0" />
+		<Entry English="l" Leet="1" />
+		<Entry English="e" Leet="3" />
+		<Entry English="a" Leet="4" />
+		<Entry English="t" Leet="7" />
+	</Language>
+	<Language Name="1337 Extreme">
+		<Entry English="a" Leet="4,@" />
+		<Entry English="i" Leet="!,!,1" />
+		<Entry English="o" Leet="0" />
+		<Entry English="l" Leet="1" />
+		<Entry English="r" Leet="2" />
+		<Entry English="z" Leet="2" />
+		<Entry English="e" Leet="3" />
+		<Entry English="a" Leet="4" />
+		<Entry English="s" Leet="5" />
+		<Entry English="t" Leet="7" />
+		<Entry English="b" Leet="8" />
+		<Entry English="g" Leet="9" />
+	</Language>
+	<Language Name="Morse Code">
+		<Entry English="a" Leet=".-" />
+		<Entry English="b" Leet="-..." />
+		<Entry English="c" Leet="-.-." />
+		<Entry English="d" Leet="-.." />
+		<Entry English="e" Leet="." />
+		<Entry English="f" Leet="..-." />
+		<Entry English="g" Leet="--." />
+		<Entry English="h" Leet="...." />
+		<Entry English="i" Leet=".." />
+		<Entry English="j" Leet=".---" />
+		<Entry English="k" Leet="-.-" />
+		<Entry English="l" Leet=".-.." />
+		<Entry English="m" Leet="--" />
+		<Entry English="n" Leet="-." />
+		<Entry English="o" Leet="---" />
+		<Entry English="p" Leet=".--." />
+		<Entry English="q" Leet="--.-" />
+		<Entry English="r" Leet=".-." />
+		<Entry English="s" Leet="..." />
+		<Entry English="t" Leet="-" />
+		<Entry English="u" Leet="..-" />
+		<Entry English="v" Leet="...-" />
+		<Entry English="w" Leet=".--" />
+		<Entry English="x" Leet="-..-" />
+		<Entry English="y" Leet="-.--" />
+		<Entry English="z" Leet="--.." />
+		<Entry English="0" Leet="-----" />
+		<Entry English="1" Leet=".----" />
+		<Entry English="2" Leet="..---" />
+		<Entry English="3" Leet="...--" />
+		<Entry English="4" Leet="....-" />
+		<Entry English="5" Leet="....." />
+		<Entry English="6" Leet="-...." />
+		<Entry English="7" Leet="--..." />
+		<Entry English="8" Leet="---.." />
+		<Entry English="9" Leet="----." />
+	</Language>
+	<Language Name="Leet">
+		<Entry English="a" Leet="a,4,@,/\,α,λ,∂" />
+		<Entry English="b" Leet="b,8,ß" />
+		<Entry English="c" Leet="c,&lt;,©,¢" />
+		<Entry English="d" Leet="d,Ð,đ" />
+		<Entry English="e" Leet="e,3,€,&amp;,£,ε,ë" />
+		<Entry English="f" Leet="f,ph,ƒ,l²" />
+		<Entry English="g" Leet="g,&amp;,9" />
+		<Entry English="h" Leet="h,|-|,/-/" />
+		<Entry English="i" Leet="i,!,1,|,ỉ" />
+		<Entry English="j" Leet="j,¿" />
+		<Entry English="l" Leet="l,1,|_,£" />
+		<Entry English="m" Leet="m,/\/\,|\/|" />
+		<Entry English="n" Leet="n,|\|,/\/" />
+		<Entry English="o" Leet="o,0,(),*,°,&lt;&gt;,ø,Ω" />
+		<Entry English="p" Leet="p,|°,|*,þ,Þ,¶" />
+		<Entry English="r" Leet="r,®,я" />
+		<Entry English="s" Leet="s,5,$,§,ŝ,ş" />
+		<Entry English="t" Leet="t,7,+,†" />
+		<Entry English="u" Leet="u,µ" />
+		<Entry English="v" Leet="v,\/,|/,\|,√" />
+		<Entry English="w" Leet="w,\/\/,Ш" />
+		<Entry English="x" Leet="x,&gt;&lt;,%,×" />
+		<Entry English="y" Leet="y,`/,¥" />
+		<Entry English="z" Leet="z,2" />
+		<Entry English="ä" Leet="ä,°A°" />
+		<Entry English="ö" Leet="ö,°O°" />
+		<Entry English="ü" Leet="ü,°U°" />
+		<Entry English="!" Leet="!,‼,¡" />
+	</Language>
+	<Language Name="Leetspeak Extreme">
+		<Entry English="a" Leet="4,@,/\,/-\,?,^,α,λ,∂" />
+		<Entry English="b" Leet="8,|3,ß,b,l³,|&gt;,13" />
+		<Entry English="c" Leet="(,[,&lt;,©,¢" />
+		<Entry English="d" Leet="|),|],Ð,đ,1)" />
+		<Entry English="e" Leet="3,€,&amp;,£,ε,ë" />
+		<Entry English="f" Leet="|=,PH,|*|-|,|&quot;,ƒ,l²" />
+		<Entry English="g" Leet="6,&amp;,9" />
+		<Entry English="h" Leet="4,|-|,#,}{,]-[,/-/" />
+		<Entry English="i" Leet="!,1,|,][,ỉ" />
+		<Entry English="j" Leet="_|,¿" />
+		<Entry English="k" Leet="|&lt;,|{,|(,X" />
+		<Entry English="l" Leet="1,|_,£,|,][_" />
+		<Entry English="m" Leet="/\/\,/v\,|V|,]V[,|\/|,AA,[]V[],|11,/|\,^^,(V),|Y|" />
+		<Entry English="n" Leet="|\|,/\/,/V,|V,/\\/,|1,2,?,(\)" />
+		<Entry English="o" Leet="0,9,(),[],*,°,&lt;&gt;,ø,Ω,{[]}" />
+		<Entry English="p" Leet="|°,p,|&gt;,|*,[]D,][D,|²,|?,|D,þ,Þ,¶" />
+		<Entry English="q" Leet="0_,0" />
+		<Entry English="r" Leet="2,|2,1²,®,?,я" />
+		<Entry English="s" Leet="5,$,§,?,ŝ,ş" />
+		<Entry English="t" Leet="7,+,†,'][',|" />
+		<Entry English="u" Leet="|_|,µ,[_],v" />
+		<Entry English="v" Leet="\/,|/,\|,\',√" />
+		<Entry English="w" Leet="\/\/,VV,\A/,\\',uu,\^/,\|/,Ш" />
+		<Entry English="x" Leet="&gt;&lt;,)(,}{,%,?,×,][&quot;" />
+		<Entry English="y" Leet="`/,°/,9,¥" />
+		<Entry English="z" Leet="z,2,&quot;/_" />
+		<Entry English="ä" Leet="43,°A°" />
+		<Entry English="ö" Leet="03,°O°" />
+		<Entry English="ü" Leet="|_|3,°U°" />
+		<Entry English="!" Leet="!,‼,¡" />
+	</Language>
+	<Language Name="ASCII">
+		<Entry English="a" Leet="α,λ,∂,â,á,à,ä,Å" />
+		<Entry English="b" Leet="ß,β" />
+		<Entry English="c" Leet="©,¢,ç" />
+		<Entry English="d" Leet="Ð,đ" />
+		<Entry English="e" Leet="€,£,ε,∑,ê,é,è,ë" />
+		<Entry English="f" Leet="ƒ" />
+		<Entry English="i" Leet="ỉ,í,ì,î,ï,¡" />
+		<Entry English="j" Leet="¿" />
+		<Entry English="l" Leet="£" />
+		<Entry English="o" Leet="ø,Ø,¤,Ω,☼,ó,ò,ô,ö" />
+		<Entry English="p" Leet="þ,Þ,¶" />
+		<Entry English="r" Leet="®,я" />
+		<Entry English="s" Leet="$,§,ŝ,ş" />
+		<Entry English="t" Leet="+,†,┼" />
+		<Entry English="u" Leet="µ,ú,ù,û" />
+		<Entry English="v" Leet="√" />
+		<Entry English="w" Leet="Ш" />
+		<Entry English="x" Leet="×" />
+		<Entry English="y" Leet="¥,ý,ÿ,Ψ,γ" />
+		<Entry English="ä" Leet="æ" />
+		<Entry English="!" Leet="!,‼,‼" />
+	</Language>
+	<Language Name="Letter Casing">
+		<Entry English="a" Leet="a,A" />
+		<Entry English="b" Leet="b,B" />
+		<Entry English="c" Leet="c,C" />
+		<Entry English="d" Leet="d,D" />
+		<Entry English="e" Leet="e,E" />
+		<Entry English="f" Leet="f,F" />
+		<Entry English="g" Leet="g,G" />
+		<Entry English="h" Leet="h,H" />
+		<Entry English="i" Leet="i,I" />
+		<Entry English="j" Leet="j,J" />
+		<Entry English="k" Leet="k,K" />
+		<Entry English="l" Leet="l,L" />
+		<Entry English="m" Leet="m,M" />
+		<Entry English="n" Leet="n,N" />
+		<Entry English="o" Leet="o,O" />
+		<Entry English="p" Leet="p,P" />
+		<Entry English="g" Leet="q,Q" />
+		<Entry English="r" Leet="r,R" />
+		<Entry English="s" Leet="s,S" />
+		<Entry English="t" Leet="t,T" />
+		<Entry English="u" Leet="u,U" />
+		<Entry English="v" Leet="v,V" />
+		<Entry English="w" Leet="w,W" />
+		<Entry English="x" Leet="x,X" />
+		<Entry English="y" Leet="y,Y" />
+		<Entry English="z" Leet="z,Z" />
+		<Entry English="ä" Leet="ä,Ä" />
+		<Entry English="ö" Leet="ö,Ö" />
+		<Entry English="ü" Leet="ü,Ü" />
+	</Language>
+	<Language Name="Handwriting">
+		<Entry English="a" LeetLower="𝓪" LeetUpper="𝕬" />
+		<Entry English="b" LeetLower="𝓫" LeetUpper="𝕭" />
+		<Entry English="c" LeetLower="𝓬" LeetUpper="𝕮" />
+		<Entry English="d" LeetLower="𝓭" LeetUpper="𝕯" />
+		<Entry English="e" LeetLower="𝓮" LeetUpper="𝕰" />
+		<Entry English="f" LeetLower="𝓯" LeetUpper="𝕱" />
+		<Entry English="g" LeetLower="𝓰" LeetUpper="𝕲" />
+		<Entry English="h" LeetLower="𝓱" LeetUpper="𝕳" />
+		<Entry English="i" LeetLower="𝓲" LeetUpper="𝕴" />
+		<Entry English="j" LeetLower="𝓳" LeetUpper="𝕵" />
+		<Entry English="k" LeetLower="𝓴" LeetUpper="𝕶" />
+		<Entry English="l" LeetLower="𝓵" LeetUpper="𝕷" />
+		<Entry English="m" LeetLower="𝓶" LeetUpper="𝕸" />
+		<Entry English="n" LeetLower="𝓷" LeetUpper="𝕹" />
+		<Entry English="o" LeetLower="𝓸" LeetUpper="𝕺" />
+		<Entry English="p" LeetLower="𝓹" LeetUpper="𝕻" />
+		<Entry English="q" LeetLower="𝓺" LeetUpper="𝕼" />
+		<Entry English="r" LeetLower="𝓻" LeetUpper="𝕽" />
+		<Entry English="s" LeetLower="𝓼" LeetUpper="𝕾" />
+		<Entry English="t" LeetLower="𝓽" LeetUpper="𝕿" />
+		<Entry English="u" LeetLower="𝓾" />
+		<Entry English="v" LeetLower="𝓿" />
+	</Language>
+</Languages>
