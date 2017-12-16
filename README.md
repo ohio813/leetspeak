@@ -9,7 +9,7 @@ Leetspeak (or l33tsp3@k) is a program that converts typed text into [Leet](https
 [![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/leetspeak/003.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/leetspeak/003.jpg)
 [![](https://bytecode77.com/cache/thumbs/?path=images/sites/garage/software/leetspeak/004.jpg&height=200)](https://bytecode77.com/images/sites/garage/software/leetspeak/004.jpg)
 
-## Binaries
+## Downloads
 
 [![](https://bytecode77.com/images/shared/fileicons/zip.png) Leetspeak 2.2.1 Binaries.zip](https://bytecode77.com/downloads/garage/software/Leetspeak%202.2.1%20Binaries.zip)
 
