@@ -1,6 +1,14 @@
 # Leetspeak
 
-Leetspeak (or l33tsp3@k) is a program that converts typed text into [Leet](https://en.wikipedia.org/wiki/Leet) in real-time. The application captures keyboard input and automatically converts it to l33t using the selected "language". This way, you can type anywhere while having the program run in background. For in-game chatting, there is a hotkey to activate/deactivate live conversion. So neither do you need a converter, nor are you required to possess expert skills in leet-typing yourself. Some dictionaries, like "Handwriting" can't be typed using a regular keyboard anyway. Additionally, there is a converter for already existing text.
+Leetspeak (or l33tsp3@k) is a program that converts typed text into
+[Leet](https://en.wikipedia.org/wiki/Leet) in real-time. The application
+captures keyboard input and automatically converts it to l33t using the selected
+"language". This way, you can type anywhere while having the program run in
+background. For in-game chatting, there is a hotkey to activate/deactivate live
+conversion. So neither do you need a converter, nor are you required to possess
+expert skills in leet-typing yourself. Some dictionaries, like "Handwriting"
+can't be typed using a regular keyboard anyway. Additionally, there is a
+converter for already existing text.
 
 ## Screenshots
 
